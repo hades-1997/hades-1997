@@ -4,7 +4,3 @@ My name is Đắc Lợi. I am an M.Sc. in Computer Science, majoring in Artifici
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hades-1997/)
 
-
-
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
