@@ -58,7 +58,4 @@ My name is Đắc Lợi. I'm a web developer.<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hades-1997&repo=grid-css&theme=gruvbox" />
 </a>   
-<a href="https://github.com/hades-1997/nv4_module_home/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hades-1997&repo=nv4_module_home&theme=dark" />
-</a>  
+
