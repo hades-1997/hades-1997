@@ -4,7 +4,6 @@ My name is Đắc Lợi. I'm a web developer.<br>
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/saka.dacloi) 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hades-1997&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/hades-1997/nv4_module_textspeech/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
